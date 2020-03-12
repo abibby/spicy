@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "ES6",
+        // "lib": [
+        //     "DOM",
+        //     "ES5",
+        //     "ScriptHost",
+        //     "ES2015.Collection",
+        //     "ES2015.Iterable"
+        // ]
+    }
+}
